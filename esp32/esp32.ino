@@ -10,8 +10,8 @@
 #define I2S_LRC 26
 #define IR_SENSOR_PIN 33  // IR sensor pin
 
-const char* ssid = "Susith's Galaxy M14 5G";
-const char* password = "223333555555";
+const char* ssid = "YOur Wifi SSID";
+const char* password = "Your WIFI Password";
 
 bool needFeedback = false; // Global flag to indicate feedback request
 bool guidanceActive = false; // Indicates if guidance is currently active
